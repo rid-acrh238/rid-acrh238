@@ -1,11 +1,11 @@
-<h3 align="center">Hey there, I'm <a href="https://github.com/Kazzpars">Kazzpars</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/rid-acrh238">Kazzpars</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 
 <p align="center">
-<a href="https://github.com/Kazzpars?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kazzpars?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/Kazzpars"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Kazzpars?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/rid-acrh238?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rid-acrh238?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/rid-acrh238"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rid-acrh238?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
  </p>
 
@@ -25,14 +25,14 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Kazzpars"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/rid-acrh238"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
         </b>
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/Kazzpars"> <img src="https://komarev.com/ghpvc/?username=Kazzpars&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/rid-acrh238"> <img src="https://komarev.com/ghpvc/?username=rid-acrh238&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
@@ -51,6 +51,6 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAZZPARS&show_icons=true&theme=dracula&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAZZPARS&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rid-acrh238&show_icons=true&theme=dracula&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-acrh238&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" />
 </p>
