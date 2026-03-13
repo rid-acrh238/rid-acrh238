@@ -45,12 +45,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git" />
   </a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rid-acrh238&show_icons=true&theme=dracula&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid-acrh238&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Langs" />
-</p>
